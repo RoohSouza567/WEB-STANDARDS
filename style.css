@@ -188,8 +188,7 @@ img {
 
 .sobre-foto {
   /* Troque pela sua foto: images/Personal.png */
-  background: #ddd url("/imagens/Personal.png") center / cover no-repeat;
-  min-height:10px;
+  background: #ddd;
   border-radius: 10px;
 }
 
